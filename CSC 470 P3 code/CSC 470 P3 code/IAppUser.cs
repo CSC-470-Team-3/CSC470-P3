@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSC_470_P3_code
 {
-    interface IAppUser
+    public interface IAppUser
     {
         bool Login(string UserName, string Password);
         List<AppUser> GetAll();
