@@ -16,5 +16,10 @@ namespace CSC_470_P3_code
         {
             InitializeComponent();
         }
+
+        private void FormMain_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
