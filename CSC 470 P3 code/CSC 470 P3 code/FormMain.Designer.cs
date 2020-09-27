@@ -1,6 +1,6 @@
 ﻿namespace CSC_470_P3_code
 {
-    partial class Form1
+    partial class FormMain
     {
         /// <summary>
         /// Required designer variable.
