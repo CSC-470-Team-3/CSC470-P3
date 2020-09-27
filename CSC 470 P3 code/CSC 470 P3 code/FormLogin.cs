@@ -10,22 +10,16 @@ using System.Windows.Forms;
 
 namespace CSC_470_P3_code
 {
-    public partial class FormMain : Form
+    public partial class FormLogin : Form
     {
-        public FormMain()
+        public FormLogin()
         {
             InitializeComponent();
         }
 
-        private void FormMain_Load(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
-            CenterToScreen();
+
         }
-
-
-
-
-
-
     }
 }
