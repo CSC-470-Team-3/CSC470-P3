@@ -10,16 +10,22 @@ using System.Windows.Forms;
 
 namespace CSC_470_P3_code
 {
-    public partial class FormLogin : Form
+    public partial class Login : Form
     {
-        public FormLogin()
+        public Login()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+
+        private void LoginButton_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void CancelLoginButton_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }
