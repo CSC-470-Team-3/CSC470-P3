@@ -17,6 +17,11 @@ namespace CSC_470_P3_code
             InitializeComponent();
         }
 
+        private void Login_Load(object sender, EventArgs e)
+        {
+            CenterToScreen();
+        }
+
 
         private void LoginButton_Click(object sender, EventArgs e)
         {
@@ -25,7 +30,9 @@ namespace CSC_470_P3_code
 
         private void CancelLoginButton_Click(object sender, EventArgs e)
         {
-            
+            Close();
         }
+
+
     }
 }

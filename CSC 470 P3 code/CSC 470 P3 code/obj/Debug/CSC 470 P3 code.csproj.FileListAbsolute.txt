@@ -7,3 +7,5 @@ C:\Users\jdogg\Desktop\ASoftware Engineering\Github\CSC470-P2\CSC 470 P3 code\CS
 C:\Users\jdogg\Desktop\ASoftware Engineering\Github\CSC470-P2\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC 470 P3 code.csproj.CoreCompileInputs.cache
 C:\Users\jdogg\Desktop\ASoftware Engineering\Github\CSC470-P2\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC 470 P3 code.exe
 C:\Users\jdogg\Desktop\ASoftware Engineering\Github\CSC470-P2\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC 470 P3 code.pdb
+C:\Users\jdogg\Desktop\ASoftware Engineering\Github\CSC470-P2\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC_470_P3_code.Login.resources
+C:\Users\jdogg\Desktop\ASoftware Engineering\Github\CSC470-P2\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC_470_P3_code.FormMain.resources
