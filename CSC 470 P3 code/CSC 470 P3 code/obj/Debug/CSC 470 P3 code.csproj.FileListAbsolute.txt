@@ -9,3 +9,13 @@ C:\Users\jdogg\Desktop\ASoftware Engineering\Github\CSC470-P2\CSC 470 P3 code\CS
 C:\Users\jdogg\Desktop\ASoftware Engineering\Github\CSC470-P2\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC 470 P3 code.pdb
 C:\Users\jdogg\Desktop\ASoftware Engineering\Github\CSC470-P2\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC_470_P3_code.Login.resources
 C:\Users\jdogg\Desktop\ASoftware Engineering\Github\CSC470-P2\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC_470_P3_code.FormMain.resources
+C:\Users\DSU\Desktop\DSU\Fall 2020\CSC 470 - Software Engineering\Projects\P4\CSC470-P3\CSC 470 P3 code\CSC 470 P3 code\bin\Debug\CSC 470 P3 code.exe.config
+C:\Users\DSU\Desktop\DSU\Fall 2020\CSC 470 - Software Engineering\Projects\P4\CSC470-P3\CSC 470 P3 code\CSC 470 P3 code\bin\Debug\CSC 470 P3 code.exe
+C:\Users\DSU\Desktop\DSU\Fall 2020\CSC 470 - Software Engineering\Projects\P4\CSC470-P3\CSC 470 P3 code\CSC 470 P3 code\bin\Debug\CSC 470 P3 code.pdb
+C:\Users\DSU\Desktop\DSU\Fall 2020\CSC 470 - Software Engineering\Projects\P4\CSC470-P3\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC 470 P3 code.csprojAssemblyReference.cache
+C:\Users\DSU\Desktop\DSU\Fall 2020\CSC 470 - Software Engineering\Projects\P4\CSC470-P3\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC_470_P3_code.Login.resources
+C:\Users\DSU\Desktop\DSU\Fall 2020\CSC 470 - Software Engineering\Projects\P4\CSC470-P3\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC_470_P3_code.FormMain.resources
+C:\Users\DSU\Desktop\DSU\Fall 2020\CSC 470 - Software Engineering\Projects\P4\CSC470-P3\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC_470_P3_code.Properties.Resources.resources
+C:\Users\DSU\Desktop\DSU\Fall 2020\CSC 470 - Software Engineering\Projects\P4\CSC470-P3\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC 470 P3 code.csproj.GenerateResource.cache
+C:\Users\DSU\Desktop\DSU\Fall 2020\CSC 470 - Software Engineering\Projects\P4\CSC470-P3\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC 470 P3 code.exe
+C:\Users\DSU\Desktop\DSU\Fall 2020\CSC 470 - Software Engineering\Projects\P4\CSC470-P3\CSC 470 P3 code\CSC 470 P3 code\obj\Debug\CSC 470 P3 code.pdb
